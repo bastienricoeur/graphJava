@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: . ../lib/graph.jar
+Main-Class: graph.TestGraphImpl
+
